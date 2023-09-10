@@ -9,7 +9,12 @@
 			"path": "../"
 		}
 	],
-	"settings": {},
+	"settings": {
+		"github.copilot.enable": {
+			"*": true,
+			"rust": false
+		}
+	},
 	"extensions": {
 		"recommendations": [
 			"rust-lang.rust-analyzer",
