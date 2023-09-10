@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Exercises",
+			"path": ".",
+		},
+		{
+			"name": "Rustlings Source Code",
+			"path": "../"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"rust-lang.rust-analyzer",
+			"serayuzgur.crates",
+			"dustypomerleau.rust-syntax",
+			"tamasfe.even-better-toml"
+		]
+	}
+}
